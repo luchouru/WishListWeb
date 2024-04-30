@@ -1,0 +1,17 @@
+persistencia\ConsolaJpaController.class
+logica\Consola.class
+com\luisproject\wishlistjavaweb\JAXRSConfiguration.class
+com\luisproject\wishlistjavaweb\resources\JavaEE8Resource.class
+servlets\SvConsola.class
+servlets\SvXboxOne.class
+logica\Controladora.class
+servlets\SvSwitch.class
+logica\Videojuego.class
+persistencia\VideojuegoJpaController.class
+servlets\SvVideojuego.class
+logica\Videojuego_.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+logica\Consola_.class
